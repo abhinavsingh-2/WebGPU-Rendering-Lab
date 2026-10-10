@@ -1,0 +1,6 @@
+{
+  "name": "WebGPU 3D Engine",
+  "description": "A performance-oriented WebGPU 3D rendering engine supporting OBJ, FBX, and GLB/GLTF model formats with a deferred rendering pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["webgpu"]
+}
